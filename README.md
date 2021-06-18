@@ -1,2 +1,2 @@
 # examples
-Simple example projects for practice.
+Simple example projects.
